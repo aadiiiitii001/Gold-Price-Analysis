@@ -173,8 +173,6 @@ Tools & Technologies
 
 - Jupyter Notebook
 
-Git
-
 Key Skills Demonstrated
 
 - Data cleaning and validation
