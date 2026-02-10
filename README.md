@@ -87,3 +87,114 @@ Run:
 ```bash
 python scripts/data_cleaning.py
 ```
+
+---
+### 3. Exploratory Data Analysis (EDA)
+
+- Price trends over time
+
+- Yearly and monthly aggregation
+
+- Volatility identification
+
+- Distribution analysis
+
+Notebook:
+
+02_eda.ipynb
+---
+
+### 4. Feature Engineering
+
+- Derived features include:
+
+- Daily returns
+
+- Rolling averages
+
+- Rolling volatility metrics
+
+- These features support KPI creation and downstream analysis.
+
+Notebook:
+```bash
+03_feature_engineering.ipynb
+```
+5. Statistical Analysis
+
+- Descriptive statistics
+
+- Volatility comparison across time periods
+
+- Trend interpretation
+
+Notebook:
+```
+04_statistical_analysis.ipynb
+```
+6. SQL-Based Analysis
+
+- SQL-style analytical queries are used to:
+
+- Aggregate prices by year
+
+- Measure volatility
+
+- Compare long-term trends
+
+File:
+```
+sql/analysis_queries.sql
+```
+7. Power BI Dashboard
+
+An interactive Power BI dashboard is built on cleaned data:
+
+- Time-series gold price trends
+
+- KPI cards (average price, volatility, highs/lows)
+
+- Year and month slicers
+
+- Business-focused data storytelling
+
+File:
+```
+powerbi/gold_dashboard.pbix
+```
+
+Tools & Technologies
+
+- Python (Pandas, NumPy, Matplotlib)
+
+- SQL
+
+- Power BI
+
+- Jupyter Notebook
+
+Git
+
+Key Skills Demonstrated
+
+- Data cleaning and validation
+
+- Exploratory data analysis (EDA)
+
+- Statistical reasoning
+
+- SQL analytics
+
+- Dashboard design and KPI development
+
+- Automation and reproducibility
+
+- Business-oriented data storytelling
+
+Notes
+```
+Raw data is immutable
+```
+All transformations are documented and reproducible
+
+Every metric in Power BI is traceable to Python logic
