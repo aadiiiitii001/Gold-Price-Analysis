@@ -120,7 +120,7 @@ Notebook:
 ```bash
 03_feature_engineering.ipynb
 ```
-5. Statistical Analysis
+## 5. Statistical Analysis
 
 - Descriptive statistics
 
@@ -132,7 +132,7 @@ Notebook:
 ```
 04_statistical_analysis.ipynb
 ```
-6. SQL-Based Analysis
+## 6. SQL-Based Analysis
 
 - SQL-style analytical queries are used to:
 
@@ -146,7 +146,7 @@ File:
 ```
 sql/analysis_queries.sql
 ```
-7. Power BI Dashboard
+## 7. Power BI Dashboard
 
 An interactive Power BI dashboard is built on cleaned data:
 
