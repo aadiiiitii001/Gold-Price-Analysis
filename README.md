@@ -199,4 +199,4 @@ Every metric in Power BI is traceable to Python logic
 
 ## 7. Screenshot
 
-![Uploading Screenshot (23).png…]()
+<img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/b56897f2-c1e4-4ade-933f-42b1455dbc3a" />
