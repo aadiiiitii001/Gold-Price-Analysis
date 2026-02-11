@@ -196,3 +196,7 @@ Raw data is immutable
 All transformations are documented and reproducible
 
 Every metric in Power BI is traceable to Python logic
+
+## 7. Screenshot
+
+![Uploading Screenshot (23).png…]()
